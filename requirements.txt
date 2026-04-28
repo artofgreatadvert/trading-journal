@@ -5,3 +5,4 @@ matplotlib==3.8.2
 pytest==7.4.3
 python-dateutil==2.8.2
 PyInstaller==6.1.0
+numpy>=1.26.0
